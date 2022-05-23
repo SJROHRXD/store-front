@@ -15,3 +15,10 @@ function ProductCard() {
         </div>
     );
 };
+
+// fetch w axios product data and what nots
+// where fetches go
+// set state
+// get products
+// useEffect
+// only once per component
